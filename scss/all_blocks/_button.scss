@@ -1,0 +1,70 @@
+.link--button {
+    
+}
+
+.hero__link1 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    width: 256px;
+    height: 40px;
+    padding: 10px 80px;
+    gap: 10px;
+    background: #171A20;
+    opacity: 0.8;
+    border-radius: 20px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    color: #FFFFFF;
+}
+
+.hero__link2 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    width: 256px;
+    height: 40px;
+    padding: 10px 90px;
+    gap: 10px;
+    background: #FFFFFF;
+    opacity: 0.8;
+    border-radius: 20px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin-left: 20px;
+    color: black;
+}
+
+
+.button {
+    margin-top: 600px;
+    
+    
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.y__model-link {
+    text-decoration: underline;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #393C41;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.button__img {
+    
+}
+
+.hero__img {
+    margin-left: 277px;
+    margin-top: 46px;
+}
