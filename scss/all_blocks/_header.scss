@@ -19,9 +19,6 @@
         justify-content: space-between;
     }
     
-    &__logo-link {
-    }
-    
     &__logo-img {
         width: 236px;
         height: 26px;
@@ -31,9 +28,6 @@
             width: 163px;
             height: 18px;
         }
-    }
-    
-    &__nav {
     }
     
     &__list {
@@ -59,9 +53,7 @@
         
         
         
-        &:hover {
-            
-        }
+        
     }
     
     &__btn {
@@ -76,9 +68,6 @@
         width: 16px;
         height: 15px;
         object-fit: contain;
-    }
-    
-    &__icon--open {
     }
     
     &__icon--close {
@@ -103,15 +92,6 @@
 @media only screen and (max-width: 600px) {
     .header {
         position: relative;
-        
-        &__container {
-        }
-        
-        &__wrapper {
-        }
-        
-        &__logo-link {
-        }
         
         
         &__nav {
@@ -153,15 +133,6 @@
             justify-content: center;
         }
         
-        &__icon {
-            
-        }
-        
-        &__icon--open {
-        }
-        
-        &__icon--close {
-        }
     }
 }
 
@@ -236,9 +207,7 @@
         flex: none;
         order: 5;
         flex-grow: 0;
-        &:hover {
-            
-        }
+        
     }
     
     &__btn {
@@ -253,9 +222,6 @@
         width: 16px;
         height: 15px;
         object-fit: contain;
-    }
-    
-    &__icon--open {
     }
     
     &__icon--close {
@@ -281,15 +247,7 @@
     .header {
         position: relative;
         
-        &__container {
-        }
-        
-        &__wrapper {
-        }
-        
-        &__logo-link {
-        }
-        
+       
         
         &__nav {
             display: none;
@@ -329,16 +287,7 @@
             align-items: center;
             justify-content: center;
         }
-        
-        &__icon {
-            
-        }
-        
-        &__icon--open {
-        }
-        
-        &__icon--close {
-        }
+       
     }
 }
 

@@ -873,7 +873,7 @@ template {
     height: 11px;
   }
   .button {
-    margin-top: 500px;
+    margin-top: 340px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -898,7 +898,12 @@ template {
     margin-left: -2px;
   }
   .button__img {
-    margin: 0;
+    position: relative;
+    margin-left: -122px;
+  }
+  .y__heading-container {
+    position: relative;
+    margin-top: 118px;
   }
 }
 /*# sourceMappingURL=main.css.map */
