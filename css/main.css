@@ -396,6 +396,7 @@ template {
   margin: 0 auto;
   height: 896px;
   background-image: url(./../../img/bacground.png);
+  margin-top: -24px;
 }
 
 .header {
